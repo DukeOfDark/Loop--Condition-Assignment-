@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev3\\\u00F6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|solutionrelative:\u00F6dev3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev3\\\u00F6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\s\u0131n\u0131flar\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|solutionrelative:\u00F6dev3.3\\s\u0131n\u0131flar\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev3\\\u00F6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\s\u0131n\u0131flar\\suzuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|solutionrelative:\u00F6dev3.3\\s\u0131n\u0131flar\\suzuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev3\\\u00F6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\s\u0131n\u0131flar\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|solutionrelative:\u00F6dev3.3\\s\u0131n\u0131flar\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev3\\\u00F6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\s\u0131n\u0131flar\\nissan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|solutionrelative:\u00F6dev3.3\\s\u0131n\u0131flar\\nissan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev3\\\u00F6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\s\u0131n\u0131flar\\aracyakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697FEDBA-FB4A-4401-9494-A783F171E0C7}|\u00F6dev3.3\\\u00F6dev3.3.csproj|solutionrelative:\u00F6dev3.3\\s\u0131n\u0131flar\\aracyakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Bmw.cs",
+              "RelativeDocumentMoniker": "\u00F6dev3.3\\S\u0131n\u0131flar\\Bmw.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Bmw.cs",
+              "RelativeToolTip": "\u00F6dev3.3\\S\u0131n\u0131flar\\Bmw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:22:55.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suzuki.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Suzuki.cs",
+              "RelativeDocumentMoniker": "\u00F6dev3.3\\S\u0131n\u0131flar\\Suzuki.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Suzuki.cs",
+              "RelativeToolTip": "\u00F6dev3.3\\S\u0131n\u0131flar\\Suzuki.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:22:22.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Toyota.cs",
+              "RelativeDocumentMoniker": "\u00F6dev3.3\\S\u0131n\u0131flar\\Toyota.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Toyota.cs",
+              "RelativeToolTip": "\u00F6dev3.3\\S\u0131n\u0131flar\\Toyota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:21:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nissan.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Nissan.cs",
+              "RelativeDocumentMoniker": "\u00F6dev3.3\\S\u0131n\u0131flar\\Nissan.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Nissan.cs",
+              "RelativeToolTip": "\u00F6dev3.3\\S\u0131n\u0131flar\\Nissan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:20:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aracyakit.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Aracyakit.cs",
+              "RelativeDocumentMoniker": "\u00F6dev3.3\\S\u0131n\u0131flar\\Aracyakit.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\S\u0131n\u0131flar\\Aracyakit.cs",
+              "RelativeToolTip": "\u00F6dev3.3\\S\u0131n\u0131flar\\Aracyakit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:19:26.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6dev3.3\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\\u00D6dev3\\\u00D6dev3\\\u00F6dev3.3\\\u00F6dev3.3\\\u00F6dev3.3\\Program.cs",
+              "RelativeToolTip": "\u00F6dev3.3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:18:59.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
